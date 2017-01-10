@@ -19,7 +19,7 @@ property of your Echo instance as needed by doing something like:
 
 ## Source Code
 
-- [graceful]({{< source "graceful-shutdown/graceful" >}})
+- [graceful](https://github.com/labstack/echo/blob/master/examples/graceful-shutdown/server.go)
 
 ## Maintainers
 
